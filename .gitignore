@@ -1,0 +1,14 @@
+# Game data is copyrighted. Never commit it.
+*.iso
+*.zip
+*.img
+*.dsk
+*.hfv
+*.bin
+*.cue
+CD-ROMs/
+# Secrets for a self hosted copy
+CREDENTIALS*
+.env
+.htpasswd
+.DS_Store
